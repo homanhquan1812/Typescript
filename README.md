@@ -25,7 +25,7 @@ tsc example.ts
 
 Nếu bị lỗi này:
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/18e87751-f971-4cad-815c-a984c977f471" alt="Gà Nấm Cake Shop Logo" width="300">
+  <img src="https://github.com/user-attachments/assets/18e87751-f971-4cad-815c-a984c977f471" alt="Gà Nấm Cake Shop Logo">
 </div>
 
 thì ta cần tắt 1 tính năng của Windows. Mở **PowerShell** lên và gõ lệnh này:
