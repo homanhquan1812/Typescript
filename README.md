@@ -1,6 +1,6 @@
 # Typescript
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7bef55f5-65cb-4f14-98ff-374d354d5008" alt="Gà Nấm Cake Shop Logo" width="300">
+  <img src="https://github.com/user-attachments/assets/7bef55f5-65cb-4f14-98ff-374d354d5008" alt="Gà Nấm Cake Shop Logo" width="600">
 </div>
 
 ## Typescript là gì
